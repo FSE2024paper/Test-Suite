@@ -32,10 +32,14 @@ The version numbers below were confirmed to work with the current release:
 
     
 ## This repository contains the reproducibility package of DeepSuite
-#### [](): 
-* 
-#### []():
+#### [Kaggle Models](): 
+* Contains the source code of all Kaggle Models
+#### [AUTOTRAINER Models]():
 * Contains the source code of all AUTOTRAINER Models
+#### [Spectrum Analysis]():
+* Contains the source code of Callback
+#### [Minimized Test Suite]():
+* Contains the source code of the Minimized Test Suite Algorithm 
 
 
 
